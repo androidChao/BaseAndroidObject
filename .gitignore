@@ -1,0 +1,17 @@
+\.classpath
+\.idea/
+\.idea/*
+gen/
+bin/
+.idea/
+.idea/*
+./gen
+./gen/*
+./bin
+./bin/*
+project.properties
+./.settings
+\.settings
+./.settings/*
+\.DS_Store
+\.Thumb
